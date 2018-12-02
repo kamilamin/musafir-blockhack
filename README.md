@@ -2,11 +2,11 @@
 # Team BlockHack - Civic Tech Hackathon
 
 ## TEAM MEMBERS
-### Zubia Anwer Malick
-### Jawwad Ansari (Team Lead)
-### Tahir Talib Hussain
-### Abdul Moiz Hussain
-### Kamil Amin
+#### Jawwad Ansari (Team Lead)
+#### Zubia Anwer Malick
+#### Tahir Talib Hussain
+#### Abdul Moiz Hussain
+#### Kamil Amin
 ## Available Scripts
 
 In the project directory, you can run:
