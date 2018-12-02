@@ -1,7 +1,12 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 # Team BlockHack - Civic Tech Hackathon
 
-
+## TEAM MEMBERS
+### Zubia Anwer Malick
+### Jawwad Ansari (Team Lead)
+### Tahir Talib Hussain
+### Abdul Moiz Hussain
+### Kamil Amin
 ## Available Scripts
 
 In the project directory, you can run:
